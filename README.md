@@ -4,4 +4,4 @@
 
 dataset yang diolah berasal dari dataset public dan dianalisa menggunakan tools yang opensource.
 
-kami tahu masih banyak kekurangan terkait project ini karena repository ini digunakan untuk pembelajaran mendiri.
+kami tahu masih banyak kekurangan terkait project ini karena repository ini digunakan untuk pembelajaran mendiri.# proyek_data_analisis
